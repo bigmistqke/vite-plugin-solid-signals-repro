@@ -1,4 +1,8 @@
 {
   "name": "vite-plugin-solid-signals-repro",
-  "private": true
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter app dev",
+    "build": "pnpm --filter app build"
+  }
 }
