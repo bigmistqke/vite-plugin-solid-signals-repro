@@ -9,7 +9,7 @@
   "dependencies": {
     "@solidjs/signals": "2.0.0-beta.9",
     "@solidjs/web": "2.0.0-beta.9",
-    "my-lib": "file:../lib/my-lib-1.0.0.tgz",
+    "my-lib": "file:../lib",
     "solid-js": "2.0.0-beta.9"
   },
   "devDependencies": {
